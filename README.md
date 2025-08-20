@@ -43,12 +43,6 @@ It simplifies event workflows, digitizes approval processes, and provides a cent
 
 ---
 
-## 📸 Screenshots (Optional)
-
-_Add screenshots or GIF demos here once available._
-
----
-
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
